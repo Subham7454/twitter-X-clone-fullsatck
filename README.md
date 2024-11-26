@@ -1,4 +1,6 @@
 # MERN Stack Project: Build and Deploy a Twitter Clone From Scratch | JWT, Socket.io
+Take some time to load on render almost 15 sec i suggest to rerun
+ deployemrnt-https://twitter-x-clone-fullsatck.onrender.com/login
 
 
 
